@@ -1,9 +1,38 @@
-Olá, seja bem-vindo ao meu perfil no GitHub!
+# 👋 Olá, eu sou o Lucas!
 
-Desde o momento em que descobri minha paixão pela programação e desenvolvimento de software, tenho dedicado tempo diariamente para aprender novas habilidades e explorar mais sobre esse universo fascinante.
+💻 Analista de Desenvolvimento | 🎓 Estudante de ADS (Fatec) | 🚀 Apaixonado por tecnologia e criar soluções que realmente funcionam.
 
-Atualmente, estou focado no desenvolvimento de aplicações para dispositivos móveis e participo ativamente de projetos de robótica. Também estou trabalhando no desenvolvimento de um software de contabilidade voltado para auxiliar o ensino dessa matéria nas universidades. Mais recentemente, iniciei minha jornada no mundo do desenvolvimento de jogos digitais.
+---
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Guarulhos. Desenvolvi um grande interesse pela área de desenvolvimento backend e por linguagens de programação como C, C# e Java. Sempre buscando aprimorar minhas habilidades, estudo continuamente por meio de diversas fontes de conhecimento para me especializar cada vez mais na área.
+## 🚀 Tecnologias e Ferramentas
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso nesta jornada!
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas01012&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas01012&layout=compact&theme=radical)
+
+---
+
+## 🌟 Projetos em Destaque
+- [**KidsGrace - Catálogo de Brinquedos**](https://github.com/kidsgrace-frontend) – Frontend em Angular + backend Spring Boot  
+- [**Luminus**](https://github.com/Lucas01012/Luminus-frontend) – App acessível para leitura de conteúdos (React Native + Flask)  
+- [**Contime**](#) – Sistema de contabilidade desenvolvido para o Centro Paula Souza  
+
+---
+
+## 📬 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucassilva/)  
+- 📧 **lucas.seuemail@gmail.com**  
