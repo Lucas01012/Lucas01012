@@ -1,45 +1,34 @@
 # 👋 Olá, eu sou o Lucas!
 
-💻 Analista de Sistemas | 🎓 Estudante de ADS (Fatec) | 🚀 Apaixonado por tecnologia e criar soluções inovadoras.
+💻 Analista de Desenvolvimento | Estudante de ADS na Fatec  
+🚀 Apaixonado por transformar ideias em soluções digitais  
+🤝 Sempre aberto a aprender, colaborar e criar projetos legais
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias que uso
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas01012&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas01012&layout=compact&theme=radical&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas01012&theme=radical&hide_border=true)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas01012&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas01012&layout=compact&theme=tokyonight)
 
 </div>
-
----
-
-## 🌟 Projetos em Destaque
-- [**KidsGrace - Catálogo de Brinquedos**](https://github.com/Lucas01012/kidsgrace-frontend) – Frontend em Angular + backend Spring Boot  
-- [**NexusAI**](https://github.com/Lucas01012/NexusAI) – App acessível para leitura de conteúdos (React Native + Flask)  
-- [**Contime**](https://github.com/Lucas01012/contime-contabilidade) – Sistema de contabilidade desenvolvido para o Centro Paula Souza  
 
 ---
 
@@ -47,11 +36,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas01012/Lucas01012/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas01012/Lucas01012/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Lucas01012/Lucas01012/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas01012/Lucas01012/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-## 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-b4b4342ba?/)  
-- 📧 **lucasoliveiira245@gmail.com**  
+## 🌐 Onde me encontrar
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas01012)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas01012)
+
+</div>
