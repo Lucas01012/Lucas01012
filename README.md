@@ -27,9 +27,9 @@
 ---
 
 ## 🌟 Projetos em Destaque
-- [**KidsGrace - Catálogo de Brinquedos**](https://github.com/kidsgrace-frontend) – Frontend em Angular + backend Spring Boot  
-- [**Luminus**](https://github.com/Lucas01012/Luminus-frontend) – App acessível para leitura de conteúdos (React Native + Flask)  
-- [**Contime**](#) – Sistema de contabilidade desenvolvido para o Centro Paula Souza  
+- [**KidsGrace - Catálogo de Brinquedos**](https://github.com/Lucas01012/kidsgrace-frontend) – Frontend em Angular + backend Spring Boot  
+- [**NexusAI**](https://github.com/Lucas01012/NexusAI) – App acessível para leitura de conteúdos (React Native + Flask)  
+- [**Contime**](https://github.com/Lucas01012/contime-contabilidade) – Sistema de contabilidade desenvolvido para o Centro Paula Souza  
 
 ---
 
