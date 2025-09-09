@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
-💻 Analista de Desenvolvimento | 🎓 Estudante de ADS (Fatec) | 🚀 Apaixonado por tecnologia e criar soluções que realmente funcionam.
+💻 Analista de Sistemas | 🎓 Estudante de ADS (Fatec) | 🚀 Apaixonado por tecnologia e criar soluções que realmente funcionam.
 
 ---
 
@@ -34,5 +34,5 @@
 ---
 
 ## 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucassilva/)  
-- 📧 **lucas.seuemail@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-b4b4342ba?/)  
+- 📧 **lucasoliveiira245@gmail.com**  
