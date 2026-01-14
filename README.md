@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Lucas!
 
-💻 Analista de Desenvolvimento | Estudante de ADS na Fatec  
-🚀 Apaixonado por transformar ideias em soluções digitais  
-🤝 Sempre aberto a aprender, colaborar e criar projetos legais
+💻 Analista de Sistemas pela Fatec Guarulhos.
+🚀 Apaixonado por transformar ideias em soluções.  
+🤝 Sempre aberto a aprender, colaborar e criar projetos legais.
 
 ---
 
